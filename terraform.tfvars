@@ -1,0 +1,8 @@
+project_id    = "lab1-487820"
+student_name  = "lopushynskyi-roman"
+var_num       = "11"
+subnet_a_cidr = "10.11.10.0/24"
+subnet_b_cidr = "10.11.20.0/24"
+web_port      = "8080"
+server_name   = "var11.local"
+doc_root      = "/var/www/site_11"

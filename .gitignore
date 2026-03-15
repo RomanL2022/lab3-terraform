@@ -1,0 +1,13 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files (ми зберігаємо стан у хмарі, локальні нам не треба)
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Ignore variables files with sensitive data
+*.tfvars.json
